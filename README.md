@@ -55,9 +55,3 @@ Whether it's through animating in Blender, writing code, creating stories, or bu
 [![Could you have guessed, maybe you knew #shorts #DDLC #blender3D](https://ytcards.demolab.com/?id=SvxQzqhD7Cg&title=Could+you+have+guessed%2C+maybe+you+knew+%23shorts+%23DDLC+%23blender3D&lang=en&timestamp=1705442269&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Could you have guessed, maybe you knew #shorts #DDLC #blender3D")](https://www.youtube.com/watch?v=SvxQzqhD7Cg)
 <!-- END YOUTUBE-CARDS -->
 
-<br>
-
-## Stats
-
-![JackTFB's Github stats](https://github-readme-stats.vercel.app/api?username=jacktfb&show_icons=true&theme=darcula)
-
