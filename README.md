@@ -8,9 +8,6 @@ Welcome to my Github Page!  I'm an independent content creator/developer who is 
 Whether it's through animating in Blender, writing code, creating stories, or building games, the sky is the limit!
 
 <div align="left">
-    <a href="https://www.youtube.com/@jacktfbofficial?sub_confirmation=1">
-        <img src="https://custom-icon-badges.demolab.com/badge/youtube-red.svg?logo=youtube&logoSource=feather" alt="YouTube logo">
-    </a>
     <a href="https://bsky.app/profile/jacktfb.bsky.social">
         <img src="https://custom-icon-badges.demolab.com/badge/bluesky-blue.svg?logo=bluesky&logoSource=feather" alt="Bluesky Logo">
     </a>
