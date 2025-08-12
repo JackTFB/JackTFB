@@ -42,16 +42,3 @@ Whether it's through animating in Blender, writing code, creating stories, or bu
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="26px">
 </div>
 
-<br>
-
-## Latest YouTube Videos
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![IMPORTANT ANNOUNCEMENT](https://ytcards.demolab.com/?id=FX7vIQdod4E&title=IMPORTANT+ANNOUNCEMENT&lang=en&timestamp=1743192779&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "IMPORTANT ANNOUNCEMENT")](https://www.youtube.com/watch?v=FX7vIQdod4E)
-[![Which Sonic Game First? #shorts #sonicthehedgehog #sonic](https://ytcards.demolab.com/?id=hd5UZUcANuo&title=Which+Sonic+Game+First%3F+%23shorts+%23sonicthehedgehog+%23sonic&lang=en&timestamp=1742832060&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Which Sonic Game First? #shorts #sonicthehedgehog #sonic")](https://www.youtube.com/watch?v=hd5UZUcANuo)
-[![Sonic Minecraft DLC Review #shorts #sonicthehedgehog #minecraft](https://ytcards.demolab.com/?id=mpYN_FdcMXI&title=Sonic+Minecraft+DLC+Review+%23shorts+%23sonicthehedgehog+%23minecraft&lang=en&timestamp=1742659261&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Sonic Minecraft DLC Review #shorts #sonicthehedgehog #minecraft")](https://www.youtube.com/watch?v=mpYN_FdcMXI)
-[![Hello](https://ytcards.demolab.com/?id=HLK7iTENkXE&title=Hello&lang=en&timestamp=1740675631&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Hello")](https://www.youtube.com/watch?v=HLK7iTENkXE)
-[![Minecraft Rig Extrusions Tutorial (Blender 4.0)](https://ytcards.demolab.com/?id=w93jQLeniug&title=Minecraft+Rig+Extrusions+Tutorial+%28Blender+4.0%29&lang=en&timestamp=1713501375&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Minecraft Rig Extrusions Tutorial (Blender 4.0)")](https://www.youtube.com/watch?v=w93jQLeniug)
-[![Could you have guessed, maybe you knew #shorts #DDLC #blender3D](https://ytcards.demolab.com/?id=SvxQzqhD7Cg&title=Could+you+have+guessed%2C+maybe+you+knew+%23shorts+%23DDLC+%23blender3D&lang=en&timestamp=1705442269&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Could you have guessed, maybe you knew #shorts #DDLC #blender3D")](https://www.youtube.com/watch?v=SvxQzqhD7Cg)
-<!-- END YOUTUBE-CARDS -->
-
